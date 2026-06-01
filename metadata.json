@@ -1,0 +1,6 @@
+{
+  "name": "MindBridge",
+  "description": "A complete companion for mental health tracking: featuring a mood tracker with interactive trend-charts, journaling with AI-driven sentiment analysis, compassionate chat assistance with conversation history, and coping resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
